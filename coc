@@ -1,44 +1,61 @@
-Standard Operating Procedure (SOP): Game Development for Crosshair Games Cybersecurity Educational Game
+Game Overview:
+Platform: Open-source, adaptable by community
+Target Audience: Kids (Ages 8-16)
+Gameplay: Players advance through a storyline where they face different cybersecurity challenges. The game could feature tasks like identifying phishing emails, learning how to create strong passwords, understanding encryption, dealing with malware, and protecting personal information online.
+Key Features:
+Story-based Progression: The storyline follows a group of young cybersecurity heroes who uncover and prevent a series of cybercrimes, learning cybersecurity skills along the way.
+Skill-building: Each level introduces new concepts, such as:
+Password Strength: Players create and test passwords.
+Phishing Scams: Players must identify and report suspicious emails.
+Network Security: Teach basic concepts like firewalls, VPNs, and secure connections.
+Social Engineering: Explore how attackers manipulate people and how to stay alert.
+Interactive Challenges: Players can practice skills through mini-games and challenges that involve protecting virtual networks or detecting vulnerabilities in a simulated environment.
+Non-Violent Approach: Keep it non-violent and educational, focusing on critical thinking and problem-solving.
+Zero Data Collection: Emphasize privacy by collecting zero personally identifiable information (PII). Ensure no data is stored, tracked, or shared about the users.
+Community Contributions: Allow players to create their own content, such as new levels, challenges, or even educational modules about different cybersecurity topics. Since it's open source, users can contribute to the game and expand its educational value.
+Code of Conduct (CoC) for Players:
+The CoC ensures a safe and respectful environment in the game and its community:
 
-1. Game Concept Overview
-- Title: Cybersecurity Interactive Learning Experience
-- Core Objective: Develop an immersive educational game that teaches cybersecurity skills through interactive storytelling
-- Target Audience: Students, professionals, and cybersecurity enthusiasts
+Respect and Safety:
 
-2. Game Design Principles
-- Narrative-Driven Learning
-- Skill Progression System
-- Real-World Cyber Threat Scenarios
-- Interactive Problem-Solving Challenges
+Treat others with respect at all times.
+Harassment, bullying, or discriminatory behavior will not be tolerated.
+Be kind and constructive in community forums or discussions.
+No Malicious Activities:
 
-3. Development Workflow
-a) Story Development
-- Create compelling narrative arc
-- Design character progression
-- Develop realistic cyber threat scenarios
-- Integrate educational learning objectives
+Players are not allowed to add or create malware to the game or its content.
+The game is educational and designed to teach how to protect against attacks, not to facilitate them.
+Any user found to be attempting to infect, corrupt, or harm the game's environment or other players will be banned.
+Privacy Respect:
 
-b) Technical Implementation
-- Game engine selection
-- Interactive gameplay mechanics
-- Skill assessment and tracking
-- Realistic cyber attack simulations
+Do not collect, share, or attempt to access any personal information about other players.
+The game collects zero PII—no user data is stored, and no advertising or third-party data mining takes place.
+Creative Contributions:
 
-4. Learning Modules
-- Basic Cybersecurity Concepts
-- Network Security
-- Social Engineering Defense
-- Malware Detection
-- Incident Response
-- Ethical Hacking Fundamentals
+Contributions (like new modules or levels) must align with the educational nature of the game.
+Any content that promotes harmful or inappropriate behavior will be rejected.
+Fair Play:
 
-5. Quality Assurance
-- Periodic skill assessment
-- User feedback integration
-- Regular content updates
-- Difficulty level calibration
+Do not exploit bugs or loopholes to gain unfair advantages in the game.
+Play the game as it is intended—honestly and with integrity.
+License Terms:
+The game will be open-source, and contributions are welcome. However, there need to be clear terms to ensure safety and maintain the game’s purpose:
 
-6. Compliance and Ethical Considerations
-- Age-appropriate content
-- Responsible disclosure of cyber threats
-- Ethical learning approach
+Non-Malicious Modifications:
+
+Users can modify and redistribute the game as long as the modifications are non-malicious.
+You may not modify the code to introduce malware or harmful features.
+Open Source, Educational Use:
+
+The game is free to use and distribute for educational purposes only.
+Commercial use of the game or its assets is prohibited unless a specific license for such use is obtained.
+No Personal Data Collection:
+
+The game will never collect or share personal data. Users are not allowed to modify the game to include any data collection features that track user behavior, identity, or personal preferences.
+Respect for Intellectual Property:
+
+Users may contribute to the game, but all contributions must respect intellectual property laws. They should avoid including content that infringes on copyrights or trademarks.
+Content Contributions:
+
+If you contribute content, you agree that it will be released under the same open-source license.
+Contributions should be focused on enhancing the educational value and safety of the game.
